@@ -4,15 +4,15 @@ Este projeto é uma aplicação em JavaScript desenvolvida para calcular a pontu
 🚀 Funcionalidades
 O script processa uma lista de objetos contendo o nome e as notas de cada atleta e realiza as seguintes operações:
 
-Ordenação Alfabética: Organiza a lista de atletas pelo nome.
+1. Ordenação Alfabética: Organiza a lista de atletas pelo nome.
 
-Ordenação de Notas: Ordena as notas de cada atleta em ordem crescente.
+2. Ordenação de Notas: Ordena as notas de cada atleta em ordem crescente.
 
-Tratamento de Dados: Remove a menor e a maior nota de cada atleta para garantir uma média mais justa (notas intermediárias).
+3. Tratamento de Dados: Remove a menor e a maior nota de cada atleta para garantir uma média mais justa (notas intermediárias).
 
-Cálculo de Média: Calcula a média aritmética das notas restantes.
+4. Cálculo de Média: Calcula a média aritmética das notas restantes.
 
-Exibição de Resultados: Formata e exibe os dados no console de maneira organizada.
+5. Exibição de Resultados: Formata e exibe os dados no console de maneira organizada.
 
 
 📊 Regras de Negócio
