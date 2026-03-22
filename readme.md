@@ -40,12 +40,16 @@ Para cada atleta, o cálculo da média segue este fluxo:
 4. Execute o comando: node index.js
 
 📝 Exemplo de Saída
-Plaintext
+
 Atleta: BRUNO CASTRO
+
 Notas Ordenadas: 9, 9.5, 10, 10, 10
+
 Notas Válidas de Bruno Castro: 9.5, 10, 10
+
 Média (sem extremos): 9.83
-------------------------------------------------------
+
+
 📄 Licença
 Este projeto é para fins educacionais. Sinta-se à vontade para usar e modificar!
 
