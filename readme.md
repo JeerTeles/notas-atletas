@@ -18,14 +18,14 @@ O script processa uma lista de objetos contendo o nome e as notas de cada atleta
 📊 Regras de Negócio
 Para cada atleta, o cálculo da média segue este fluxo:
 
-São fornecidas 5 notas.
+* São fornecidas 5 notas.
 
-A maior e a menor nota são descartadas.
+* A maior e a menor nota são descartadas.
 
-A média é calculada com as 3 notas centrais.
+* A média é calculada com as 3 notas centrais.
 
 
 🛠️ Tecnologias Utilizadas
-JavaScript (ES6+): Utilização de métodos modernos como sort(), slice(), forEach() e Template Literals.
+* JavaScript (ES6+): Utilização de métodos modernos como sort(), slice(), forEach() e Template Literals.
 
-Node.js: Ambiente de execução.
+* Node.js: Ambiente de execução.
