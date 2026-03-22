@@ -44,6 +44,5 @@ Atleta: BRUNO CASTRO
 Notas Ordenadas: 9, 9.5, 10, 10, 10
 Notas Válidas de Bruno Castro: 9.5, 10, 10
 Média (sem extremos): 9.83
-------------------------------------------------------
 
 
