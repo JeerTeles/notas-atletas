@@ -29,3 +29,14 @@ Para cada atleta, o cálculo da média segue este fluxo:
 * JavaScript (ES6+): Utilização de métodos modernos como sort(), slice(), forEach() e Template Literals.
 
 * Node.js: Ambiente de execução.
+
+💻 Como Executar
+1. Certifique-se de ter o Node.js instalado em sua máquina.
+
+2. Clone este repositório ou copie o código para um arquivo chamado index.js.
+
+3. Abra o terminal na pasta do projeto.
+
+4. Execute o comando:
+
+node index.js
