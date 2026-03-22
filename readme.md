@@ -8,11 +8,7 @@ O script processa uma lista de objetos contendo o nome e as notas de cada atleta
 
 2. Ordenação de Notas: Ordena as notas de cada atleta em ordem crescente.
 
-<<<<<<< HEAD
 3. Tratamento de Dados: Remove a menor e a maior nota de cada atleta para garantir uma média mais justa (notas intermediárias).
-=======
-3.Tratamento de Dados: Remove a menor e a maior nota de cada atleta para garantir uma média mais justa (notas intermediárias).
->>>>>>> 1ba07d09780755cfe6869272ea17e7cdeb762862
 
 4. Cálculo de Média: Calcula a média aritmética das notas restantes.
 
