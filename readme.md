@@ -37,6 +37,14 @@ Para cada atleta, o cálculo da média segue este fluxo:
 
 3. Abra o terminal na pasta do projeto.
 
-4. Execute o comando:
+4. Execute o comando: node index.js
 
-node index.js
+📝 Exemplo de Saída
+    Plaintext
+    Atleta: BRUNO CASTRO
+    Notas Ordenadas: 9, 9.5, 10, 10, 10
+    Notas Válidas de Bruno Castro: 9.5, 10, 10
+    Média (sem extremos): 9.83
+------------------------------------------------------
+
+
