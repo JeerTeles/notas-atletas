@@ -45,4 +45,7 @@ Notas Ordenadas: 9, 9.5, 10, 10, 10
 Notas Válidas de Bruno Castro: 9.5, 10, 10
 Média (sem extremos): 9.83
 
+📄 Licença
+Este projeto é para fins educacionais. Sinta-se à vontade para usar e modificar!
+
 
